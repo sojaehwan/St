@@ -6,6 +6,6 @@ public class Test {
 	public void test() {
 		System.out.println("하이");
 		System.out.println("반가워");
+		System.out.println("hello man~");
 	}
-
 }
