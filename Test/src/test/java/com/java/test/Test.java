@@ -7,5 +7,6 @@ public class Test {
 		System.out.println("하이");
 		System.out.println("반가워");
 		System.out.println("hello man~");
+		System.out.println("hihi")
 	}
 }
